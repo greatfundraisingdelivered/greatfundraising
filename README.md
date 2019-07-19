@@ -1,2 +1,1 @@
-# greatfundraising
-Backup repository to gogreatmoods
+# gogreat
